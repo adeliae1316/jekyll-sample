@@ -3,4 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+# title: Home
+banner: "/assets/images/banners/home.webp"
+heading: 'iikanji no blog'
+subheading: ''
 ---
