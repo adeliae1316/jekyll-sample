@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Penguin in Otaru aquarium"
+date: 2024-06-02 11:52:15 +0000
+categories: blog home
+banner: /assets/images/posts/2024-06-03-penguin/penguin.webp
+---
+
+# Penguin
